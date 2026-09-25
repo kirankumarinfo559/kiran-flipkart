@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1790344006,,"wq!"
 :wq
 |2,0,1790226179,,"wq"
 :ududjdjdjdjjdjdj
@@ -30,20 +32,72 @@
 |3,0,32,0,1,0,1790225659,"w"
 
 # File marks:
-'0  1  17  ~/kirantest3
-|4,48,1,17,1790226179,"~/kirantest3"
-'1  1  10  ~/kirantest2
-|4,49,1,10,1790225860,"~/kirantest2"
-'2  1  13  ~/kiran-test1
-|4,50,1,13,1790225711,"~/kiran-test1"
+'0  1  22  ~/kiran
+|4,48,1,22,1790344006,"~/kiran"
+'1  1  24  ~/cherry
+|4,49,1,24,1790341911,"~/cherry"
+'2  1  17  ~/kirantest3
+|4,50,1,17,1790226179,"~/kirantest3"
+'3  1  10  ~/kirantest2
+|4,51,1,10,1790225860,"~/kirantest2"
+'4  1  13  ~/kiran-test1
+|4,52,1,13,1790225711,"~/kiran-test1"
 
 # Jumplist (newest first):
+-'  1  22  ~/kiran
+|4,39,1,22,1790344006,"~/kiran"
+-'  1  24  ~/cherry
+|4,39,1,24,1790341911,"~/cherry"
+-'  1  24  ~/cherry
+|4,39,1,24,1790341911,"~/cherry"
+-'  1  17  ~/kirantest3
+|4,39,1,17,1790226179,"~/kirantest3"
+-'  1  17  ~/kirantest3
+|4,39,1,17,1790226179,"~/kirantest3"
+-'  1  17  ~/kirantest3
+|4,39,1,17,1790226179,"~/kirantest3"
 -'  1  17  ~/kirantest3
 |4,39,1,17,1790226179,"~/kirantest3"
 -'  1  10  ~/kirantest2
 |4,39,1,10,1790225860,"~/kirantest2"
 -'  1  10  ~/kirantest2
 |4,39,1,10,1790225860,"~/kirantest2"
+-'  1  10  ~/kirantest2
+|4,39,1,10,1790225860,"~/kirantest2"
+-'  1  10  ~/kirantest2
+|4,39,1,10,1790225860,"~/kirantest2"
+-'  1  10  ~/kirantest2
+|4,39,1,10,1790225860,"~/kirantest2"
+-'  1  10  ~/kirantest2
+|4,39,1,10,1790225860,"~/kirantest2"
+-'  1  10  ~/kirantest2
+|4,39,1,10,1790225860,"~/kirantest2"
+-'  1  10  ~/kirantest2
+|4,39,1,10,1790225860,"~/kirantest2"
+-'  1  13  ~/kiran-test1
+|4,39,1,13,1790225711,"~/kiran-test1"
+-'  1  13  ~/kiran-test1
+|4,39,1,13,1790225711,"~/kiran-test1"
+-'  1  13  ~/kiran-test1
+|4,39,1,13,1790225711,"~/kiran-test1"
+-'  1  13  ~/kiran-test1
+|4,39,1,13,1790225711,"~/kiran-test1"
+-'  1  13  ~/kiran-test1
+|4,39,1,13,1790225711,"~/kiran-test1"
+-'  1  13  ~/kiran-test1
+|4,39,1,13,1790225711,"~/kiran-test1"
+-'  1  13  ~/kiran-test1
+|4,39,1,13,1790225711,"~/kiran-test1"
+-'  1  13  ~/kiran-test1
+|4,39,1,13,1790225711,"~/kiran-test1"
+-'  1  13  ~/kiran-test1
+|4,39,1,13,1790225711,"~/kiran-test1"
+-'  1  13  ~/kiran-test1
+|4,39,1,13,1790225711,"~/kiran-test1"
+-'  1  13  ~/kiran-test1
+|4,39,1,13,1790225711,"~/kiran-test1"
+-'  1  13  ~/kiran-test1
+|4,39,1,13,1790225711,"~/kiran-test1"
 -'  1  13  ~/kiran-test1
 |4,39,1,13,1790225711,"~/kiran-test1"
 -'  1  13  ~/kiran-test1
@@ -54,6 +108,20 @@
 |4,39,1,13,1790225711,"~/kiran-test1"
 
 # History of marks within files (newest to oldest):
+
+> ~/kiran
+	*	1790344001	0
+	"	1	22
+	^	1	23
+	.	1	22
+	+	1	22
+
+> ~/cherry
+	*	1790341902	0
+	"	1	24
+	^	1	25
+	.	1	24
+	+	1	24
 
 > ~/kirantest3
 	*	1790226176	0
